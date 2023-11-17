@@ -1,7 +1,3 @@
-<p align='center'>
-<img src ="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
-<p>
-
 <h1 align='center'>
  <b>PROYECTO INDIVIDUAL Nº2</b>
 </h1>
@@ -22,9 +18,13 @@ En el marco de las recientes elecciones presidenciales en Argentina, el nuevo go
 En este contexto, el gobierno plantea tres objetivos claros: en primer lugar, mejorar el acceso a internet en todos los hogares argentinos; en segundo lugar, invertir en las zonas menos conectadas para promover la igualdad de oportunidades y elevar la calidad de vida y de estudio; y finalmente, incentivar la expansión de la fibra óptica en las ciudades más pobladas. La elección de esta tecnología se fundamenta en su capacidad para proporcionar una calidad superior, lo que impulsaría el desarrollo de trabajos remotos, oportunidades para freelancers, emprendedores, PYMES y otros sectores.
 
 Vamos a desarrollar 4 `KPIs`:
+   
     - *Incrementar en un 2% el acceso al servicio de internet para el próximo trimestre, considerando cada 100 hogares, a nivel provincial.*.
+    
     - *Mejorar en un 8% el acceso al servicio de internet por trimestre en las zonas con menor conectividad a internet.*.
+   
     - *Aumentar en un 5% el acceso al servicio de internet por trimestre en aquellas localidades donde no se ha registrado acceso a internet.*.
+   
     - *Incrementar en un 2% la penetración de fibra óptica por trimestre en las localidades más pobladas del país.*.
 
 
@@ -69,6 +69,6 @@ El análisis destaca la importancia de la planificación a largo plazo para sati
 
 - [Datasets principales](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/)
 
-- [EDA] por_cada_100_hogares.ipynb , tecnologia-por-prov.ipynb, tecnologia_por_localidad.ipynb
+- [Notbooks - EDA] por_cada_100_hogares.ipynb , tecnologia-por-prov.ipynb, tecnologia_por_localidad.ipynb
 
 
